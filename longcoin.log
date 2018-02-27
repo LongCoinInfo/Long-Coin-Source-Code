@@ -1,0 +1,43 @@
+2018-Feb-27 18:11:08.953767 INFO    [daemon] forknote v2.1.2.1251 ()
+2018-Feb-27 18:11:08.954887 INFO    [daemon] Module folder: ./forknoted
+2018-Feb-27 18:11:08.956215 INFO    [RocksDBWrapper] Opening DB in /Users/sohrob/.longcoin/DB
+2018-Feb-27 18:11:08.961249 INFO    [RocksDBWrapper] DB not found in /Users/sohrob/.longcoin/DB. Creating new DB...
+2018-Feb-27 18:11:08.969437 INFO    [daemon] Initializing core...
+2018-Feb-27 18:11:08.972821 INFO    [daemon] Core initialized OK
+2018-Feb-27 18:11:08.972955 INFO    [daemon] Initializing p2p server...
+2018-Feb-27 18:11:08.973056 INFO    [node_server] Generated new peer ID: 15224037442278681044
+2018-Feb-27 18:11:08.973135 INFO    [node_server] Binding on 0.0.0.0:1222
+2018-Feb-27 18:11:08.973316 INFO    [node_server] Net service binded on 0.0.0.0:1222
+2018-Feb-27 18:11:08.973395 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Feb-27 18:11:12.988370 INFO    [node_server] No IGD was found.
+2018-Feb-27 18:11:12.988676 INFO    [daemon] P2p server initialized OK
+2018-Feb-27 18:11:12.989040 INFO    [daemon] Starting core rpc server on address 127.0.0.1:1223
+2018-Feb-27 18:11:12.989299 INFO    [daemon] Core rpc server started ok
+2018-Feb-27 18:11:12.989449 INFO    [daemon] Starting p2p net loop...
+2018-Feb-27 18:11:12.989544 INFO    [node_server] Starting node_server
+2018-Feb-27 18:11:13.523588 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2018-Feb-27 18:11:16.129182 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2018-Feb-27 18:11:19.088598 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2018-Feb-27 18:11:21.616140 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2018-Feb-27 18:11:24.168135 ERROR   [node_server] Failed to connect to any of seed peers, continuing without seeds
+2018-Feb-27 18:11:49.900106 INFO    [protocol] 
+2018-Feb-27 18:11:49.900106 INFO    [protocol] **********************************************************************
+2018-Feb-27 18:11:49.900106 INFO    [protocol] You are now synchronized with the network. You may now start simplewallet.
+2018-Feb-27 18:11:49.900106 INFO    [protocol] 
+2018-Feb-27 18:11:49.900106 INFO    [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2018-Feb-27 18:11:49.900106 INFO    [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2018-Feb-27 18:11:49.900106 INFO    [protocol] 
+2018-Feb-27 18:11:49.900106 INFO    [protocol] Use "help" command to see the list of available commands.
+2018-Feb-27 18:11:49.900106 INFO    [protocol] **********************************************************************
+2018-Feb-27 18:31:11.764783 INFO    [Core] Block 20fc62ac7da078ef5f3ea5cfdd7c0e35250d06700bfb5eaf4958b6af08284a37 added to main chain. Index: 100
+2018-Feb-27 19:06:43.121225 INFO    [Core] Block 209d1102837457a434425fd277d2e18b26c7597c4078f536bbcc5c4c55c17251 added to main chain. Index: 200
+2018-Feb-27 19:06:43.197799 WARNING [node_server] [45.76.153.225:1222 OUT] Exception in connectionHandler: TcpConnection::read, recv failed, result=54, Connection reset by peer
+2018-Feb-27 19:06:43.506286 WARNING [node_server] [199.247.24.80:1222 OUT] Exception in connectionHandler: TcpConnection::read, recv failed, result=54, Connection reset by peer
+2018-Feb-27 19:38:30.848119 WARNING [node_server] [45.76.153.225:1222 OUT] Exception in connectionHandler: TcpConnection::read, recv failed, result=54, Connection reset by peer
+2018-Feb-27 19:38:31.146347 WARNING [node_server] [199.247.24.80:1222 OUT] Exception in connectionHandler: TcpConnection::read, recv failed, result=54, Connection reset by peer
+2018-Feb-27 19:42:24.007668 INFO    [Core] Block 4fd5d4b95f839443ed5611f7970b3513702049b9fdb6769f897266d72159cfec added to main chain. Index: 300
+2018-Feb-27 19:59:08.510597 INFO    [Core] Block 5bae32f0be23d5a2d7ed2e2be0619fa40595c36a1d3b966cc51986f6c96331dd added to main chain. Index: 400
+2018-Feb-27 20:23:33.144150 INFO    [Core] Block a9f975d59a08191432dd832dc42cd2a8d96da3c0dc208506b2f7936fdd5d053b added to main chain. Index: 500
+2018-Feb-27 20:53:10.703527 INFO    [Core] Block f31aca58849050546e3d66d905c45ebb6f78b64491f28791411628617596d54e added to main chain. Index: 600
+2018-Feb-27 21:10:07.503680 INFO    [Core] Block 6b7bee5ac464eccdb74de2f6e9c76b530e0d71ec50149e6626f6fe868d25873d added to main chain. Index: 700
+2018-Feb-27 21:27:54.096511 INFO    [Core] Block 941d398e336f1a33055aec1b5f53e12f91481aef8dc0e1033497962560047873 added to main chain. Index: 800
